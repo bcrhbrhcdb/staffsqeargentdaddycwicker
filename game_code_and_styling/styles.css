@@ -1,0 +1,13 @@
+h1{
+    color: darkslategrey;
+    font-family: 'lato';
+    margin: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+body{
+    background-color: beige;
+    justify-content: flex;
+    align-items: left;
+    
+}
